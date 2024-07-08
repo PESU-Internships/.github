@@ -1,3 +1,5 @@
+![Banner](https://github.com/PESU-Internships/.github/assets/81763561/679c6493-aed8-4a7d-8b91-332d883cb9d7)
+
 # PES University Internship Portal
 
 ![PES University](https://img.shields.io/badge/PES%20University-Internships-blue)
