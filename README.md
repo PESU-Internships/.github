@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the official GitHub organization for the PES University Internship Portal. This platform is designed to streamline the internship approval and follow-up processes, which were previously managed manually through emails and Google Forms.
+Welcome to the Official GitHub Organization for the PES University Internship Portal. This platform is designed to streamline the internship approval and follow-up processes, which were previously managed manually through emails and Google Forms.
 
 ## Tech Stack
 
