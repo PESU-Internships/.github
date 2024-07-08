@@ -16,7 +16,7 @@ Welcome to the official GitHub organization for the PES University Internship Po
 
 ## Developer Team
 
-- [Sarthak Kumar](https://github.com/sarthakskumar) - 7th semester, PES University EC campus
+- [Sarthak S Kumar](https://github.com/sarthakskumar) - 7th semester, PES University EC campus
 - [Varun Kamath](https://github.com/Vaarun-Kamath) - 7th semester, PES University EC campus
 - [Vishal M Godi](https://github.com/VishalMGodi) - 7th semester, PES University EC campus
 - [Hithesh](https://github.com/Ganther3301) - 7th semester, PES University EC campus
